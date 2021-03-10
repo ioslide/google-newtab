@@ -6,14 +6,7 @@
 
 <div align="center">	
 google-newtab
-	
-[![Build Status](https://img.shields.io/chrome-web-store/v/dnlcffgahkmhkefdmhjdepbbbkcocjca.svg)](https://chrome.google.com/webstore/detail/ucraft/dnlcffgahkmhkefdmhjdepbbbkcocjca)
-[![License](https://img.shields.io/github/license/ssrpanel/SSRPanel.svg)](https://xhy.im/legal-notice/index.html)
-[![downloads](https://img.shields.io/github/downloads/ioslide/google-newtab/v1.0/total.svg)](https://github.com/ioslide/google-newtab/releases)
-[![rating](https://img.shields.io/chrome-web-store/stars/dnlcffgahkmhkefdmhjdepbbbkcocjca.svg)](https://chrome.google.com/webstore/detail/ucraft/dnlcffgahkmhkefdmhjdepbbbkcocjca)
 
-English | [简体中文](README-zh_CN.md)
-	
 ## 🖥
 
 ## Environment Support
